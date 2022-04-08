@@ -1,0 +1,52 @@
+html, body {
+    margin: 0;
+    background: #fffbdf;
+    min-width: 320px;
+}
+h1{
+    margin-left:50px;
+}
+#div-1{
+    padding: 10px;
+    margin-right:10px;
+}
+#input-el{
+    color:#34656d;
+    width: 100%;
+    height:25px;
+    padding-left: 10px;
+    border:none;
+    border: 2px solid;
+    border-radius: 25px;
+    outline: none;
+}
+input:hover{
+    border: 2px solid ;
+
+}
+iframe{
+    
+    margin-right: 30px;
+}
+
+input:active{
+    border: 2px solid;
+}
+
+#demo1{
+    padding-left : 30px;
+}
+button{
+    outline:none;
+    border: 2px solid #34656d;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-top: 15px;
+    font-size:18px;
+    padding:10px;
+    width: 130px;
+    height:45px;
+}
+button:hover{
+ border:2px solid black;   
+}
